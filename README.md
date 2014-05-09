@@ -1,4 +1,4 @@
-JavaExerciseBook
+Java Exercises Book
 ================
 
-Exercises Introduction to Java Programming 9-th edition
+Exercises  & theory - Introduction to Java Programming 9-th edition
